@@ -1,0 +1,9 @@
+{
+    "jwtSecret": "zerozilla_jwtSecret",
+    "dbHost": "122.171.51.231",
+    "dbUser": "naveen",
+    "dbPassword": "MeAt2022",
+    "dbDatabase": "stoket",
+    "db":"mongodb+srv://naveen:MeAt2022@cluster0.ixwwa.mongodb.net/zerozilla?retryWrites=true&w=majority"
+}
+

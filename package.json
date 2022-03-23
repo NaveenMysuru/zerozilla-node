@@ -1,0 +1,31 @@
+{
+  "name": "zerozilla-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "body-parser": "^1.19.2",
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.7",
+    "path": "^0.12.7",
+    "webpack": "^5.70.0",
+    "webpack-node-externals": "^3.0.0"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
